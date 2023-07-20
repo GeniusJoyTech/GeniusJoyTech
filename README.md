@@ -17,7 +17,7 @@ I have good knowledge in web programming languages, style languages and I am cur
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![excel](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![python]([https://img.shields.io/badge/python-purple](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white])
+![python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white)
 
 CONTACT:
 
