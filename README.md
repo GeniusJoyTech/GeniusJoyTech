@@ -25,4 +25,6 @@ CONTACT:
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel_jesus800?igshid=ZDc4ODBmNjlmNQ==)
 
+[![WhatsApp](https://img.shields.io/badge/whatsapp-green?style=flat)]([https://wa.me/15988240374](https://api.whatsapp.com/send/?phone=15988240374&text=Ol%C3%A1%20eu%20obtive%20seu%20n%C3%BAmero%20pelo%20seu%20github.%20Podemos%20agendar%20um%20papinho?&type=phone_number&app_absent=0)https://api.whatsapp.com/send/?phone=15988240374&text=Ol%C3%A1%20eu%20obtive%20seu%20n%C3%BAmero%20pelo%20seu%20github.%20Podemos%20agendar%20um%20papinho?&type=phone_number&app_absent=0)
+
 
